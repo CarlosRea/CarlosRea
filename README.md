@@ -48,6 +48,10 @@ Full-stack application for managing sports leagues, match results, and standings
 
 [View Repository](https://github.com/CarlosRea/sports-league-scoreboard)
 
+## 🎓 Certifications
+
+- **AI Dev Tools Zoomcamp (2026)** — DataTalks.Club · [View Certificate](https://certificate.datatalks.club/ai-dev-tools/2026/7acd54133647e18d948c3eefde17505512577e86.pdf)
+
 ## 🤝 Connect
 
 Open to professional opportunities and technical collaborations.

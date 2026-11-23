@@ -41,7 +41,7 @@ Master's research project focused on automatic lesion segmentation in longitudin
 ### 💪 Calisthenics Tracker
 Full-stack workout tracking application featuring REST APIs, PostgreSQL, React, automated testing, and observability.
 
-**AI Dev Tools Zoomcamp 2026 capstone project (DataTalks.Club)** — Passed peer evaluation (project score: 21; total score: 30 including peer-review credits).
+**AI Dev Tools Zoomcamp 2026 capstone project (DataTalks.Club)** — Successfully completed and passed peer evaluation.
 
 [View Repository](https://github.com/CarlosRea/calisthenics-tracker-api) · [View Certificate](https://certificate.datatalks.club/ai-dev-tools/2026/7acd54133647e18d948c3eefde17505512577e86.pdf)
 

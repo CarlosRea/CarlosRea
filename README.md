@@ -1,51 +1,55 @@
 
-# Carlos Rea
+# Carlos Rea Nogales
 
 ### Data Scientist | Data Engineer | BI Specialist
 
-Computer Engineer with a Master's Degree in Data Science and professional experience in data analytics, business intelligence, machine learning, and software development.
+Computer Engineer with a Master's Degree in Data Science and professional experience in Business Intelligence, Data Engineering, Machine Learning, and Software Development.
 
-I specialize in transforming data into reliable analytical solutions, from data pipelines and reporting models to predictive systems and deployable applications.
+My background combines data analysis, SQL-based reporting, ETL development, predictive modeling, and Python automation.
 
-## Technical Expertise
+I enjoy building reliable, practical data solutions, from analytical pipelines and reporting systems to machine learning applications and production-oriented APIs.
 
-**Data & Analytics:** Python, SQL, Pandas, IBM Cognos Analytics, Power BI, Data Modeling, ETL
+## 🛠️ Technical Expertise
 
-**Machine Learning:** scikit-learn, XGBoost, PyTorch, Model Evaluation, Feature Engineering
+**Data Engineering & BI**
+- Python, SQL, Pandas, ETL Pipelines
+- IBM Cognos Analytics, Power BI
+- Data Modeling, Oracle, PostgreSQL
 
-**Engineering & Cloud:** Docker, FastAPI, Git, CI/CD, AWS, Azure, PostgreSQL, Oracle
+**Machine Learning & AI**
+- scikit-learn, XGBoost, PyTorch
+- Feature Engineering, Model Evaluation
+- Predictive Analytics, Deep Learning
 
-## Featured Projects
+**Software Engineering & Cloud**
+- FastAPI, Docker, Git, CI/CD
+- AWS, Azure, Linux
+- REST APIs, Automated Testing
 
-### Stroke Risk Prediction
-End-to-end machine learning pipeline with model evaluation, FastAPI inference, and Docker deployment.
+## 🚀 Featured Projects
 
-[Explore project](https://github.com/CarlosRea/stroke-prediction-mlzoomcamp)
+### 🧠 Stroke Risk Prediction
+End-to-end machine learning project covering data preprocessing, model comparison, evaluation, and deployment through FastAPI and Docker.
 
-### Multiple Sclerosis Lesion Segmentation
-Master's research project exploring deep learning for longitudinal brain MRI lesion segmentation.
+[View Repository](https://github.com/CarlosRea/stroke-prediction-mlzoomcamp)
 
-[Explore project](https://github.com/CarlosRea/lesion-segmentation-challenge-miccai21)
+### 🔬 Multiple Sclerosis Lesion Segmentation
+Master's research project focused on automatic lesion segmentation in longitudinal brain MRI using deep learning and nnU-Net.
 
-### Calisthenics Tracker
-Full-stack application with REST APIs, workout analytics, automated testing, and observability.
+[View Repository](https://github.com/CarlosRea/lesion-segmentation-challenge-miccai21)
 
-[Explore project](https://github.com/CarlosRea/calisthenics-tracker-api)
+### 💪 Calisthenics Tracker
+Full-stack workout tracking application featuring REST APIs, PostgreSQL, React, automated testing, and observability.
 
-### Sports League Scoreboard
-Full-stack sports management application featuring league standings, authentication, and CI/CD.
+[View Repository](https://github.com/CarlosRea/calisthenics-tracker-api)
 
-[Explore project](https://github.com/CarlosRea/sports-league-scoreboard)
+### ⚽ Sports League Scoreboard
+Full-stack application for managing sports leagues, match results, and standings, with authentication, automated testing, and CI/CD.
 
-## Professional Focus
+[View Repository](https://github.com/CarlosRea/sports-league-scoreboard)
 
-- Machine Learning and Applied AI
-- Data Engineering and ETL Pipelines
-- Business Intelligence and Analytics
-- Python Backend Development
-
-## Contact
+## 🤝 Connect
 
 Open to professional opportunities and technical collaborations.
 
-[GitHub Projects](https://github.com/CarlosRea?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosreanogales/)
